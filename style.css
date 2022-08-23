@@ -64,3 +64,32 @@ h2 {
 #taka-color {
     color: gray;
 }
+
+.donation-plan-part {
+    text-align: center;
+}
+
+.donate-plan {
+    display: flex;
+}
+
+.donate-plan div {
+    display: center;
+    text-align: left;
+    border: 1px solid white;
+    margin: 30px 30px;
+    padding: 50px 30px;
+    width: 25%;
+}
+
+#food-bg {
+    background-color: rgb(149, 149, 216);
+}
+
+#shelter-bg {
+    background-color: rgb(240, 183, 172);
+}
+
+#education-bg {
+    background-color: rgb(216, 171, 179);
+}
