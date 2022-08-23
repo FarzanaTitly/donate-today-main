@@ -93,3 +93,19 @@ h2 {
 #education-bg {
     background-color: rgb(216, 171, 179);
 }
+
+footer {
+    background-color: rgb(9, 9, 41);
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+    color: wheat;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    font-weight: 500;
+}
